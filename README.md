@@ -3,7 +3,7 @@
 First, we open the `VPN` and then click on this [link](https://emkei.cz/)
 
 <p align="center">
-    <img src="images/1.png" alt="image1">
+    <img src="images/1.png" alt="image1" width="500">
 </p>
 
 Now fill the data according to your needs and press on send button.
