@@ -27,5 +27,5 @@ Now the email which we send is look like this.
 The data of email.
 
 <p align="center">
-    <img src="images/4.png" alt="image1">
+    <img src="images/5.png" alt="image1">
 </p>
