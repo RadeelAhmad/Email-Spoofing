@@ -9,19 +9,19 @@ First, we open the `VPN` and then click on this [link](https://emkei.cz/)
 Now fill the data according to your needs and press on send button.
 
 <p align="center">
-    <img src="images/2.png" alt="image1">
+    <img src="images/2.png" alt="image1" width="500">
 </p>
 
 Now you see email send **successfully**.
 
 <p align="center">
-    <img src="images/3.png" alt="image1">
+    <img src="images/4.png" alt="image1" width="500">
 </p>
 
 Now the email which we send is look like this.
 
 <p align="center">
-    <img src="images/4.png" alt="image1">
+    <img src="images/5.png" alt="image1" width="500">
 </p>
 
 The data of email.
