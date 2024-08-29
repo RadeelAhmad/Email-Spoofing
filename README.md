@@ -17,3 +17,9 @@ Now you see email send successfully
 <p align="center">
     <img src="images/3.png" alt="image1">
 </p>
+
+Now the email which we send is look like this
+
+<p align="center">
+    <img src="images/4.png" alt="image1">
+</p>
